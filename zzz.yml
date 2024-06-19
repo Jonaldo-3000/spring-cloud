@@ -1,9 +1,0 @@
-server:
-  port: ${PORT:8880}
-eureka:
-  client:
-   register-with-eureka: true
-   #fetch-registry: false
-   serviceurl:
-    defaultZone: http://localhost:8850/eureka/
-message: Configuracion de Cajero en el Servidor levantado!
