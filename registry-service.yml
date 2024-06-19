@@ -4,4 +4,4 @@ eureka:
   client:
    fetch-registry: false
    register-with-eureka: false
-#Sevicio de registro y descubrimiento levantado en el servidor
+#message: Sevicio de registro y descubrimiento levantado en el servidor
