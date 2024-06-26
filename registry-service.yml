@@ -2,6 +2,6 @@ server:
   port: ${PORT:8850}
 eureka:
   client:
-   fetch-registry: false
-   register-with-eureka: false
+    fetch-registry: false
+    register-with-eureka: false
 #message: Sevicio de registro y descubrimiento levantado en el servidor
